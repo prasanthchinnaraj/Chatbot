@@ -166,6 +166,7 @@ Retrieves details of a specific conversation.
 - `chatService.py` - Service for handling chat logic
 - `model.py` - Data models
 - `responseFormater.py` - Helper to format responses
+- `conversationRepository.py` - temp database processer
 
 ## Error Handling
 
