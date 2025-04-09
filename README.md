@@ -26,9 +26,9 @@ This is a Flask-based REST API service that provides a chat interface powered by
 pip install -r requirements.txt
 
 
-4. Create a `.env` file in the root directory with the following variables:
+2. Create a `.env` file in the root directory with the following variables:
 
-MODEL_API_KEY=your_api_key_here
+MODEL_API_KEY=your_api_key_here  "i have provided my api key temporarily"
 
 
 ## Running the Application
